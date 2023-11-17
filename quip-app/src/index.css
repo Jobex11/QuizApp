@@ -1,0 +1,36 @@
+/*
+import a font 
+*/
+
+/*
+=================
+GLOBAL STYLES
+=================
+*/
+
+:root {
+}
+
+/*
+=================
+GLOBAL  VARIABLES
+=================
+*/
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  font-family: sans-serif;
+  background-color: rgb(215, 215, 220);
+}
+/*
+=================
+GLOBAL  VARIABLES
+=================
+*/

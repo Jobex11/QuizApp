@@ -1,0 +1,58 @@
+    ==============  REACT APPLICATION   =============
+    
+    ==== QUIZ APP OBJECTIVES =====
+
+    This application is meant to learn how to build a quiz application.
+
+
+
+    ====  UX/UI FEATURES  ===== 
+    ======  CLIENT FEATURES  ==========
+    ===== ADMIN FEATURES  =======
+    ======  FRONT END FEATUES =========
+
+      TECHNOLOGIES 
+
+1. 
+    TO CONVERT THE REACT CODE INTO MOBILE APPLICATIONS. 
+- Adalo 
+- Outsystem
+- bubbles
+- thunkable
+
+
+    IMPORTANT COMPONENTS OF QUIZ APPLICATIONS 
+-user authentication
+-quiz creationg and management
+-quiz type 
+-quiz player 
+- scoring system
+-leader boards
+-progress tracking
+-feedback and explanation 
+- notification
+-social sharing
+-accessible features 
+-responsive designs
+-analytics 
+-security
+-ADMIN dashboard 
+-monetization option.
+
+
+    ====== BACKEND FEATURES  ========
+    =====  TEST AND PERORMANCE  ====== 
+    ========  TECHNOLOGIES =============
+
+1. 
+    TO CONVERT THE REACT CODE INTO MOBILE APPLICATIONS. 
+- Adalo 
+- Outsystem
+- bubbles
+- thunkable
+    =====  LIBRARIES OR PACKAGES ========
+    ====== INSTALLATION  ========
+
+
+SUCCESS DIARY
+1. i will be designing the home page
